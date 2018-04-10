@@ -2,37 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/links/index.html</loc>
+    <loc>http://yoursite.com/2017/11/01/blog-themechange-md/</loc>
     
-    <lastmod>2018-04-10T09:00:44.046Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/books/index.html</loc>
-    
-    <lastmod>2018-04-10T08:59:36.345Z</lastmod>
+    <lastmod>2018-04-10T09:41:27.816Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/repository/index.html</loc>
     
-    <lastmod>2018-04-10T08:58:58.111Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/04/09/test/</loc>
-    
-    <lastmod>2018-04-09T14:51:38.914Z</lastmod>
+    <lastmod>2018-04-10T09:34:40.363Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://yoursite.com/2018/04/09/hello-world/</loc>
     
-    <lastmod>2018-04-09T14:25:49.382Z</lastmod>
+    <lastmod>2018-04-10T09:34:40.353Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/links/index.html</loc>
+    
+    <lastmod>2018-04-10T09:34:40.353Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/04/09/test/</loc>
+    
+    <lastmod>2018-04-10T09:34:40.346Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/books/index.html</loc>
+    
+    <lastmod>2018-04-10T09:34:40.341Z</lastmod>
     
   </url>
   

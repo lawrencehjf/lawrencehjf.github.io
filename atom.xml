@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-09T14:51:38.914Z</updated>
+  <updated>2018-04-10T09:34:40.346Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2018/04/09/test/"/>
     <id>http://yoursite.com/2018/04/09/test/</id>
     <published>2018-04-09T14:50:48.000Z</published>
-    <updated>2018-04-09T14:51:38.914Z</updated>
+    <updated>2018-04-10T09:34:40.346Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Tue Apr 10 2018 17:33:35 GMT+0800 (CST) --><p>test</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Tue Apr 10 2018 17:41:56 GMT+0800 (CST) --><p>test</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Apr 10 2018 17:33:35 GMT+0800 (CST) --&gt;&lt;p&gt;test&lt;/p&gt;&lt;!-- rebuild by neat --&gt;
+        &lt;!-- build time:Tue Apr 10 2018 17:41:56 GMT+0800 (CST) --&gt;&lt;p&gt;test&lt;/p&gt;&lt;!-- rebuild by neat --&gt;
       
     
     </summary>
@@ -42,19 +42,42 @@
     <link href="http://yoursite.com/2018/04/09/hello-world/"/>
     <id>http://yoursite.com/2018/04/09/hello-world/</id>
     <published>2018-04-09T14:25:49.382Z</published>
-    <updated>2018-04-09T14:25:49.382Z</updated>
+    <updated>2018-04-10T09:34:40.353Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Tue Apr 10 2018 17:33:35 GMT+0800 (CST) --><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Tue Apr 10 2018 17:41:56 GMT+0800 (CST) --><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Tue Apr 10 2018 17:33:35 GMT+0800 (CST) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;!
+        &lt;!-- build time:Tue Apr 10 2018 17:41:56 GMT+0800 (CST) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;!
       
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客主题pure使用说明</title>
+    <link href="http://yoursite.com/2017/11/01/blog-themechange-md/"/>
+    <id>http://yoursite.com/2017/11/01/blog-themechange-md/</id>
+    <published>2017-10-31T16:00:00.000Z</published>
+    <updated>2018-04-10T09:41:27.816Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Tue Apr 10 2018 17:41:56 GMT+0800 (CST) --><p>pure<br>A brand new default theme for [Hexo]. Preview | English documentation</p><p>外观<br>首页 | 归档 | 分类 | 标签 | 项目 | 书单 | 友链 | 关于</p><p>启用主题<br>Execute the following command under your hexo folder.</p><p>git clone <a href="https://github.com/cofess/hexo-theme-pure.git" target="_blank" rel="noopener">https://github.com/cofess/hexo-theme-pure.git</a> themes/pure<br>Then modify the property theme of the file hexo/_config.yml to theme: pure</p><p>更新主题<br>Execute the following command to update theme.</p><p>cd themes/pure<br>git pull<br>安装插件<br>hexo-wordcount<br>npm install hexo-wordcount --save<br>hexo-generator-json-content<br>npm install hexo-generator-json-content --save<br>hexo-generator-feed<br>npm install hexo-generator-feed --save<br>hexo-generator-sitemap<br>npm install hexo-generator-sitemap --save<br>hexo-generator-baidu-sitemap<br>npm install hexo-generator-baidu-sitemap --save<br>主题配置<br>导航菜单</p><h1 id="导航菜单"><a class="markdownIt-Anchor" href="#导航菜单"></a> 导航菜单</h1><p>menu:<br>Home: .<br>Archives: archives # 归档<br>Categories: categories # 分类<br>Tags: tags # 标签<br>Repository: repository # github repositories<br>Books: books # 书单<br>Links: links # 友链<br>About: about # 关于</p><h1 id="导航菜单图标font-awesome"><a class="markdownIt-Anchor" href="#导航菜单图标font-awesome"></a> 导航菜单图标（font awesome）</h1><p>menu_icons:<br>enable: true # 是否启用菜单图标<br>home: fa-dashboard<br>archives: fa-delicious<br>categories: fa-folder<br>tags: fa-tags<br>repository: fa-code<br>books: fa-leanpub<br>links: fa-gg<br>about: fa-coffee<br>搜索<br>主题内置三种站内搜索方式：insight、swiftype、baidu</p><h1 id="search"><a class="markdownIt-Anchor" href="#search"></a> Search</h1><p>search:<br>insight: true # you need to install <code>hexo-generator-json-content</code> before using Insight Search<br>swiftype: # enter swiftype install key here<br>baidu: false # you need to disable other search engines to use Baidu search<br>分享<br>支持weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin</p><h1 id="share"><a class="markdownIt-Anchor" href="#share"></a> Share</h1><h1 id="weiboqqqzonewechattencentdoubandiandianfacebooktwittergooglelinkedin"><a class="markdownIt-Anchor" href="#weiboqqqzonewechattencentdoubandiandianfacebooktwittergooglelinkedin"></a> weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin</h1><p>share:<br>enable: true # 是否启用分享<br>sites: weibo,qq,wechat,facebook,twitter # PC端显示的分享图标<br>mobile_sites: weibo,qq,qzone # 移动端显示的分享图标<br>评论<br>主题集成了disqus、友言、来必力、gitment评论系统，选择其中一种即可</p><h1 id="comment"><a class="markdownIt-Anchor" href="#comment"></a> Comment</h1><h1 id="gitment"><a class="markdownIt-Anchor" href="#gitment"></a> Gitment</h1><h1 id="introduction-httpsimsunnetpostsgitment-introduction"><a class="markdownIt-Anchor" href="#introduction-httpsimsunnetpostsgitment-introduction"></a> Introduction: <a href="https://imsun.net/posts/gitment-introduction/" target="_blank" rel="noopener">https://imsun.net/posts/gitment-introduction/</a></h1><p>comment:<br>type: livere # 启用哪种评论系统<br>disqus: # enter disqus shortname here<br>youyan:<br>uid: *** # enter youyan uid<br>livere:<br>uid: *** # enter livere uid<br>gitment:<br>githubID: username<br>repo: <a href="http://username.github.io" target="_blank" rel="noopener">username.github.io</a><br>ClientID: ***<br>ClientSecret: ***<br>lazy: false<br>Github respostory<br>复制theme/pure/_source/ 目录下repository文件夹到blog path/source/ 目录下</p><h1 id="github"><a class="markdownIt-Anchor" href="#github"></a> Github</h1><p>github:<br>username: *** # github username<br>豆瓣书单<br>复制theme/pure/_source/ 目录下books文件夹到blog path/source/ 目录下</p><h1 id="douban-豆瓣书单"><a class="markdownIt-Anchor" href="#douban-豆瓣书单"></a> douban 豆瓣书单</h1><p>douban:<br>user: *** # 豆瓣用户名<br>start: 0 # 从哪一条记录开始<br>count: 100 # 获取豆瓣书单数据条数<br>友情链接<br>复制theme/pure/_source/ 目录下links文件夹到blog path/source/ 目录下</p><p>在 hexo 目录下的 source 文件夹内创建一个名为 _data（禁止改名）的文件夹。</p><p>然后在文件内创建一个名为 links.yml 的文件,在其中添加相关数据即可。</p><p>单个友情链接的格式为：</p><p>Name:<br>link: <a href="http://example.com" target="_blank" rel="noopener">http://example.com</a><br>avatar: <a href="http://example.com/avatar.png" target="_blank" rel="noopener">http://example.com/avatar.png</a><br>desc: “这是一个描述”<br>添加多个友情链接，我们只需要根据上面的格式重复填写即可。</p><p>. 将 Name 改为友情链接的名字，例如 Cofess。</p><p>. <a href="http://example.com" target="_blank" rel="noopener">http://example.com</a> 为友情链接的地址。</p><p>. <a href="http://example.com/avatar.png" target="_blank" rel="noopener">http://example.com/avatar.png</a> 为友情链接的头像。</p><p>. 这是一个描述 为友情链接描述。</p><p>文章启用目录索引<br>title: 文章标题<br>categories:</p><ul><li>文章分类<br>tags:</li><li>文章标签<br>toc: true # 是否启用内容索引<br>博客优化<br>hexo-neat<br>auto Minify html、js、css and make it neat</li></ul><p>npm install hexo-neat --save<br>在博客配置文件_config.yml中添加</p><h1 id="hexo-neat"><a class="markdownIt-Anchor" href="#hexo-neat"></a> hexo-neat</h1><p>neat_enable: true<br>neat_html:<br>enable: true<br>exclude:<br>neat_css:<br>enable: true<br>exclude:<br>- ‘<em>.min.css’<br>neat_js:<br>enable: true<br>mangle: true<br>output:<br>compress:<br>exclude:<br>- '</em>.min.js’<br>hexo-baidu-url-submit<br>npm install hexo-baidu-url-submit --save<br>hexo-translate-title<br>使用Google翻译，百度翻译和有道翻译将Hexo中的汉字标题转成英文标题</p><p>安装</p><p>npm install hexo-translate-title --save<br>在博客配置文件_config.yml中添加</p><p>translate_title:<br>translate_way: google #google | baidu | youdao<br>youdao_api_key: XXX<br>youdao_keyfrom: XXX<br>is_need_proxy: true #true | false<br>proxy_url: <a href="http://localhost:8123" target="_blank" rel="noopener">http://localhost:8123</a><br>注意：判断是否需要配置google本地代理，因为我在本地是开启时才能访问google翻译的，如果没有被墙，请将_config.yml 下的is_need_proxy: true改为false。如果设置为true,请设置本地代理地址</p><p>数学公式<br>Hexo默认使用&quot;hexo-renderer-marked&quot;引擎渲染网页，该引擎会把一些特殊的markdown符号转换为相应的html标签</p><p>解决方案<br>解决方案有很多，可以网上搜下，为了节省大家的时间，这里只提供亲身测试过的方法。</p><p>更换Hexo的markdown渲染引擎，hexo-renderer-markdown-it-plus引擎替换默认的渲染引擎hexo-renderer-marked即可。</p><p>安装hexo-renderer-markdown-it-plus插件<br>npm un hexo-renderer-marked --save<br>npm i hexo-renderer-markdown-it-plus --save<br>配置<br>安装插件后，如果未正常渲染LaTeX数学公式，在博客配置文件_config.yml中添加</p><p>markdown_it_plus:<br>highlight: true<br>html: true<br>xhtmlOut: true<br>breaks: true<br>langPrefix:<br>linkify: true<br>typographer:<br>quotes: “”‘’<br>plugins:<br>- plugin:<br>name: markdown-it-katex<br>enable: true<br>- plugin:<br>name: markdown-it-mark<br>enable: false<br>文章启用mathjax<br>title: Hello World<br>mathjax: true<br>本文链接： <a href="http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html" target="_blank" rel="noopener">http://blog.cofess.com/2017/11/01/hexo-blog-theme-pure-usage-description.html</a><br>版权声明： 本博客所有文章除特别声明外，均采用 CC BY 4.0 CN协议 许可协议。转载请注明出处！</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Tue Apr 10 2018 17:41:56 GMT+0800 (CST) --&gt;&lt;p&gt;pure&lt;br&gt;A brand new default theme for [Hexo]. Preview | English documentation&lt;
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo pure" scheme="http://yoursite.com/tags/Hexo-pure/"/>
     
   </entry>
   
